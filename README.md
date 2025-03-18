@@ -24,7 +24,7 @@ I am a seasoned programmer with a deep passion for computer science, a strong dr
 
 ### **Frontend Development**
 - Advanced skills in modern web technologies:
-  - **JavaScript**, **TypeScript**, **HTML**, **CSS**  
+  - **JavaScript**, **TypeScript**, **HTML**, **CSS**, **Thymeleaf**  
 - Proficient with UI frameworks:
   - **Vue.js**, **Bootstrap**, **Tailwind CSS**
  
